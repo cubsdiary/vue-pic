@@ -11,7 +11,7 @@
 # 在移动端调用拍照功能时，会发生图片旋转，为了解决这个问题引入了exif去判断拍照时的信息再去处理图片。
 ```
 
-exif.js(https://github.com/exif-js/exif-js)
+[exif.js](https://github.com/exif-js/exif-js)
 
 # 使用方法 
 
