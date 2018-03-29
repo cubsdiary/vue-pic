@@ -16,7 +16,7 @@ Vue.use(api)
 
 Vue.config.productionTip = false
 
-axios.defaults.baseURL = 'https://www.gt1.shop/'
+axios.defaults.baseURL = ''
 Vue.prototype.baseUrl = axios.defaults.baseURL
 /* eslint-disable no-new */
 new Vue({
